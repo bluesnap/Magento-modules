@@ -1,2 +1,2 @@
 # Magento-modules
-Magento modules repo
+Magento modules repo.
